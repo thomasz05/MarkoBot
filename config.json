@@ -1,0 +1,7 @@
+{
+  "token": "NzMzOTUyNDkzNTc0NDIyNTc4.XxKohg.oG4DSMINdmqTJmBmaoXNd7gmCow",
+  "prefix": "/",
+  "dbuser": "thomas",
+  "dbpass": "bingotop",
+  "redisPath": "//redis-13363.c238.us-central1-2.gce.cloud.redislabs.com:13363?password=8jLMTtoRIOmWg8YbhJtGUrdQKCnS7T20"
+}
